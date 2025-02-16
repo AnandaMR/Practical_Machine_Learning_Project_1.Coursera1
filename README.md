@@ -21,6 +21,13 @@ To perform analysis and prediction, follow these steps:
 ## Results
 The generated models allow predicting weightlifting performance based on sensor data. The results can be used to optimize training and prevent injuries.
 
+# Machine Learning Project
+
+This is a project where I work with Machine Learning. You can view the live page by clicking the following link:
+
+[View HTML Page](https://anandamr.github.io/Practical_Machine_Learning_Project_1.Coursera1/project.html)
+
+
 ## Contribution
 If you want to contribute to the project, you can fork it, propose changes via pull requests, or open issues to report bugs or suggestions.
 
